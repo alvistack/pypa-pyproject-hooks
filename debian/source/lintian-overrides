@@ -1,0 +1,5 @@
+python-pyproject-hooks source: file-without-copyright-information
+python-pyproject-hooks source: no-debian-changes
+python-pyproject-hooks source: source-contains-prebuilt-windows-binary
+python-pyproject-hooks source: source-is-missing
+python-pyproject-hooks source: source-package-encodes-python-version
