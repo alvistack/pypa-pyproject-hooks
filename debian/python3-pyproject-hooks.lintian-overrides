@@ -1,0 +1,4 @@
+python3-pyproject-hooks: copyright-without-copyright-notice
+python3-pyproject-hooks: initial-upload-closes-no-bugs
+python3-pyproject-hooks: no-manual-page
+python3-pyproject-hooks: zero-byte-file-in-doc-directory
